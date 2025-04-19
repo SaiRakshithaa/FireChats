@@ -5,11 +5,7 @@ A real-time chat app with WebSocket support using FastAPI and Firebase for authe
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
 - [Firestore Structure](#-firestore-structure)
-- [Screenshots](#-screenshots)
-- [Installation](#-installation)
-- [Future Improvements](#-future-improvements)
-- [Contributing](#-contributing)
-- [License](#-license)
+
 
  ## 🚀 Features
 
