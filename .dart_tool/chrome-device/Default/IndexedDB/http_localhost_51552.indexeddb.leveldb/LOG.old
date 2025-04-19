@@ -1,0 +1,25 @@
+2025/04/03-14:49:15.145 3010 Reusing MANIFEST C:\Users\saira\AppData\Local\Temp\flutter_tools.48bf5c26\flutter_tools_chrome_device.2f260b2b\Default\IndexedDB\http_localhost_51552.indexeddb.leveldb/MANIFEST-000001
+2025/04/03-14:49:15.146 3010 Recovering log #11
+2025/04/03-14:49:15.147 3010 Reusing old log C:\Users\saira\AppData\Local\Temp\flutter_tools.48bf5c26\flutter_tools_chrome_device.2f260b2b\Default\IndexedDB\http_localhost_51552.indexeddb.leveldb/000011.log 
+2025/04/03-14:49:15.157 40ec Level-0 table #16: started
+2025/04/03-14:49:15.164 40ec Level-0 table #16: 6370 bytes OK
+2025/04/03-14:49:15.170 40ec Delete type=0 #11
+2025/04/03-14:49:15.171 3010 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/04/03-14:50:34.368 40ec Compacting 1@1 + 1@2 files
+2025/04/03-14:50:34.384 40ec Generated table #17@1: 41 keys, 2996 bytes
+2025/04/03-14:50:34.384 40ec Compacted 1@1 + 1@2 files => 2996 bytes
+2025/04/03-14:50:34.389 40ec compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/04/03-14:50:34.390 40ec Delete type=2 #13
+2025/04/03-14:50:34.390 40ec Delete type=2 #16
+2025/04/03-14:52:17.343 40ec Level-0 table #19: started
+2025/04/03-14:52:17.347 40ec Level-0 table #19: 5552 bytes OK
+2025/04/03-14:52:17.350 40ec Delete type=0 #15
+2025/04/03-14:52:17.351 40ec Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/04/03-14:52:17.351 40ec Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01C\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00A\x00n\x00J\x00F\x006\x00d\x00M\x000\x00T\x00S\x001\x00-\x00K\x00V\x004\x00R\x00e\x00c\x00v\x00_\x00K\x00l\x00O\x00i\x00F\x00k\x00p\x00E\x00r\x00n\x00E\x00m\x00U\x00:\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]' @ 317 : 1
+2025/04/03-14:52:17.351 40ec Compacting 1@1 + 1@2 files
+2025/04/03-14:52:17.355 40ec Generated table #20@1: 35 keys, 2861 bytes
+2025/04/03-14:52:17.356 40ec Compacted 1@1 + 1@2 files => 2861 bytes
+2025/04/03-14:52:17.358 40ec compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/04/03-14:52:17.359 40ec Delete type=2 #17
+2025/04/03-14:52:17.359 40ec Delete type=2 #19
+2025/04/03-14:52:17.360 40ec Manual compaction at level-1 from '\x00\x02\x01\x02\x01C\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00A\x00n\x00J\x00F\x006\x00d\x00M\x000\x00T\x00S\x001\x00-\x00K\x00V\x004\x00R\x00e\x00c\x00v\x00_\x00K\x00l\x00O\x00i\x00F\x00k\x00p\x00E\x00r\x00n\x00E\x00m\x00U\x00:\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]' @ 317 : 1 .. (end); will stop at (end)
