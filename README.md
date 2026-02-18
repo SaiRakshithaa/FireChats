@@ -25,44 +25,7 @@ A real-time chat app with WebSocket support using FastAPI and Firebase for authe
 - **Database:** Firebase Firestore
 - **Storage:** Firebase Storage
 
-## 🧾 Firestore Structure
 
-Firestore Root
-│
-├── users (Collection)
-│   └── <uid> (Document)
-│       ├── name: string
-│       ├── email: string
-│       ├── profileImage: string
-│       └── isOnline: boolean
-│
-├── chats (Collection)
-│   └── <chatId> (Document)
-│       ├── participants: [uid1, uid2]
-│       ├── lastMessage: string
-│       ├── timestamp: Timestamp
-│
-│   └── messages (Subcollection)
-│       └── <messageId> (Document)
-│           ├── message: string
-│           ├── senderId: string
-│           ├── receiverIds: [string] (supports group extension)
-│           ├── timestamp: Timestamp
-│           └── seen: boolean
-│
-├── groups (Collection)
-│   └── <groupId> (Document)
-│       ├── name: string
-│       ├── adminId: string
-│       ├── members: [uid1, uid2, ...]
-│       ├── createdAt: Timestamp
-│
-│   └── messages (Subcollection)
-│       └── <messageId> (Document)
-│           ├── message: string
-│           ├── senderId: string
-│           ├── timestamp: Timestamp
-│           └── seenBy: [uid1, uid2]
 
 
 
