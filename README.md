@@ -174,7 +174,7 @@ This project helped in understanding:
 
 ## 👨‍💻 Author
 
-Your Name  
+Sai Rakshithaa S  
 GitHub: https://github.com/SaiRakshithaa
 
 ---
